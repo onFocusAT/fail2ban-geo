@@ -10,5 +10,6 @@ To install linux
 ========================
 
 - Install fail2ban and geoip like:
-    * apt-get install fail2ban
-    * apt-get install geoip-database
+   ``` 
+   apt-get install fail2ban geoip-database
+   ```
